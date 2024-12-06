@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Ali Moaz - first-try
+          Ali Moaz - first-try 2
         </a>
       </header>
     </div>
